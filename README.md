@@ -13,9 +13,11 @@ I’m a Software Engineer at Duos Technologies where I work on scalable backend 
 ### 📊 GitHub Stats 
 
 📉 GitHub stats don't always show the full story.
+
 [![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Coggin&show_icons=true&theme=default)](https://github.com/S-Coggin)
 
 📈 While it may not show on the surface, I’ve been deep in the code — building features, writing containerized GoLang services and APIs, managing releases, and contributing to enterprise-scale backend systems that keep real infrastructure running. Most of that work lives behind private doors at @duos-sarac. 🔐
+
 [![contributions-2025](https://github.com/user-attachments/assets/c0772330-0537-4500-91cb-dadda3201f2d)](https://github.com/duos-sarac)
 
 🛠️ My current stack includes GoLang, PHP (Laravel), Docker, REST APIs, and release automation. I’m especially passionate about solving complex system problems and building architecture that scales cleanly and securely.
