@@ -9,9 +9,10 @@ I’m a Software Engineer at Duos Technologies where I work on scalable backend 
 - 🌱 Public sandbox & learning history: This profile (`@S-Coggin`)
 
 ### 📊 GitHub Stats 
-[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Coggin&show_icons=true&theme=default)](https://github.com/S-Coggin)
 
 📉 GitHub stats don't always show the full story.
+
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Coggin&show_icons=true&theme=default)](https://github.com/S-Coggin)
 
 📈 But trust me —  I’ve been deep in the code — building features, steering releases, and scaling GoLang services that keep real systems running. Most of it just happens behind private doors [@duos-sarac](https://github.com/duos-sarac). 🔐
 ![contributions-2025](https://github.com/user-attachments/assets/c0772330-0537-4500-91cb-dadda3201f2d)
