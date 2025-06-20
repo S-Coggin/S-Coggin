@@ -2,23 +2,23 @@
 
 I’m a Software Engineer at Duos Technologies where I work on scalable backend systems, containerized GoLang microservices, and enterprise infrastructure platforms.
 
-🔐 Most of my engineering work is proprietary and lives inside private repositories at [@duos-sarac](https://github.com/duos-sarac) which doesn’t reflect on this public GitHub profile.
+⚠️ Most of my engineering work (including 300+ contributions in the past year) lives inside private repositories which doesn’t reflect on this public GitHub profile.
 
 ### 🔗 Public & Private Work
 - 🔒 Private profile (Duos Technologies): [github.com/duos-sarac](https://github.com/duos-sarac)  |  
 - 🌱 Public sandbox & learning history: This profile (`@S-Coggin`)
 
 ### 📊 GitHub Stats 
-![Contribution graph](./contributions-2025.png)
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Coggin&show_icons=true&theme=default)](https://github.com/S-Coggin)
+📉 GitHub stats don't always show the full story.
+📈 But trust me —  I’ve been deep in the code — building features, steering releases, and scaling GoLang services that keep real systems running. Most of it just happens behind private doors [@duos-sarac](https://github.com/duos-sarac). 🔐
 ![contributions-2025](https://github.com/user-attachments/assets/c0772330-0537-4500-91cb-dadda3201f2d)
 
-🧠 My daily work includes writing containerized GoLang services, release automation, API design, and enterprise-scale backend architecture.
+🧠 My daily work includes writing containerized GoLang services, release management, API design, and enterprise-scale backend architecture.
 
 🛠️ My current stack includes GoLang, PHP (Laravel), Docker, REST APIs, and release automation. I’m especially passionate about solving complex system problems and building architecture that scales cleanly and securely.
 
 ---
-
-
 
 ⚡ Fun fact: I write code by day and fiction by night. Somewhere in between, I kick things (constructively) in Taekwondo class. 🥋💥
 
@@ -30,7 +30,7 @@ I’m a Software Engineer at Duos Technologies where I work on scalable backend 
 
 ---
 
-🔭 See below for technical focus as a Software Engineer: 
+🔭 See below for my more technical data as a Software Engineer: 
 
 🛠️ Tools & Technologies
 - Languages: GoLang, PHP (Laravel), JavaScript, HTML/CSS
