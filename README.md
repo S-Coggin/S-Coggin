@@ -4,7 +4,7 @@ I’m a Software Engineer at Duos Technologies where I work on scalable backend 
 
 ---
 
-⚠️ Most of my current work lives in private repositories under my organization profile @duos-sarac, where I contribute to proprietary backend systems and GoLang microservices.”
+⚠️ Most of my engineering work (including 300+ contributions in the past year) lives in private repositories under my organization profile @duos-sarac, contributing to complex, systems-level backend that ties together hardware, services, scripts, and infrastructure with secure and intuitive front-end application. 
 
 ### 🔗 Public & Private Work
 - 🔒 Private profile (Duos Technologies): [github.com/duos-sarac](https://github.com/duos-sarac)  
