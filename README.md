@@ -2,22 +2,21 @@
 
 I’m a Software Engineer at Duos Technologies where I work on scalable backend systems, containerized GoLang microservices, and enterprise infrastructure platforms.
 
-⚠️ Most of my engineering work (including 300+ contributions in the past year) lives inside private repositories which doesn’t reflect on this public GitHub profile.
+---
+
+⚠️ Most of my current work lives in private repositories under my organization profile @duos-sarac, where I contribute to proprietary backend systems and GoLang microservices.”
 
 ### 🔗 Public & Private Work
-- 🔒 Private profile (Duos Technologies): [github.com/duos-sarac](https://github.com/duos-sarac)  |  
+- 🔒 Private profile (Duos Technologies): [github.com/duos-sarac](https://github.com/duos-sarac)  
 - 🌱 Public sandbox & learning history: This profile (`@S-Coggin`)
 
 ### 📊 GitHub Stats 
 
 📉 GitHub stats don't always show the full story.
-
 [![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Coggin&show_icons=true&theme=default)](https://github.com/S-Coggin)
 
-📈 But trust me —  I’ve been deep in the code — building features, steering releases, and scaling GoLang services that keep real systems running. Most of it just happens behind private doors [@duos-sarac](https://github.com/duos-sarac). 🔐
-![contributions-2025](https://github.com/user-attachments/assets/c0772330-0537-4500-91cb-dadda3201f2d)
-
-🧠 My daily work includes writing containerized GoLang services, release management, API design, and enterprise-scale backend architecture.
+📈 While it may not show on the surface, I’ve been deep in the code — building features, writing containerized GoLang services and APIs, managing releases, and contributing to enterprise-scale backend systems that keep real infrastructure running. Most of that work lives behind private doors at @duos-sarac. 🔐
+[![contributions-2025](https://github.com/user-attachments/assets/c0772330-0537-4500-91cb-dadda3201f2d)](https://github.com/duos-sarac)
 
 🛠️ My current stack includes GoLang, PHP (Laravel), Docker, REST APIs, and release automation. I’m especially passionate about solving complex system problems and building architecture that scales cleanly and securely.
 
