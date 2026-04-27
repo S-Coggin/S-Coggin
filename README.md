@@ -1,3 +1,5 @@
+<img width="3805" height="1735" alt="image" src="https://github.com/user-attachments/assets/9fdabe47-9089-4dd6-a12a-02d00345d69c" />
+
 # Hi, I’m Sara 👋
 
 **Software Engineer | Systems Thinker | AI-Augmented Builder**
