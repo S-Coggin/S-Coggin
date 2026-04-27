@@ -1,56 +1,76 @@
-# Hi, I'm Sara 👋
+# 🚀 AI-Augmented Engineer Training System
 
-Software Engineer focused on building **AI-augmented systems** that turn learning into real-world execution.
-
----
-
-## 🚀 Current Focus
-
-- Designing systems that integrate AI into development workflows  
-- Building real-world projects tied to measurable output  
-- Developing as a modern engineer in an AI-first landscape  
+A structured system designed to accelerate software engineering growth by combining **AI-assisted learning, real-world project execution, and measurable output**.
 
 ---
 
-## 🔥 Featured Project
+## 🔗 Live Demo
 
-### 🧠 AI-Augmented Engineer Training System
-
-A structured system designed to accelerate software engineering growth by combining:
-- focused learning  
-- real project execution  
-- GitHub-based proof of work  
-
-🔗 Live Demo: https://ai-augmented-engineer.vercel.app  
-📦 Repo: https://github.com/S-Coggin/ai-augmented-engineer  
+👉 https://ai-augmented-engineer.vercel.app
 
 ---
 
-## 🛠 Projects In Progress
+## 🧠 Why This Exists
 
-- AI Knowledge Extractor  
-- Workflow Automation Dashboard  
-- AI Portfolio Assistant  
+Software engineering is shifting.
 
----
+AI is changing how code is written, problems are solved, and teams operate.  
+The value is no longer just in writing code — it's in **thinking in systems, leveraging AI effectively, and delivering real outcomes**.
 
-## 🧠 Approach
+This project was built as a response to that shift.
 
-I focus on:
-- learning through building  
-- shipping consistently  
-- integrating AI as a core part of development—not a side tool  
+Instead of separating learning from building, this system combines both into a single workflow:
+- learn → apply → track → refine
 
 ---
 
-## 📌 Note
+## ⚙️ What This App Does
 
-Much of my recent work exists in private repositories, including backend services, APIs, and production-facing systems.
-
-This GitHub highlights my **current independent builds and AI-focused workflows**.
+- 📅 Guides a structured 12-week engineering progression  
+- 🧠 Reinforces learning through daily execution loops  
+- 💻 Encourages hands-on coding and debugging practice  
+- 📦 Tracks real GitHub projects and progress  
+- 📊 Provides visibility into actual output and growth  
 
 ---
 
-## 📫 Connect
+## 🔁 Daily Execution System
 
-Open to opportunities where I can contribute, build, and continue growing as an AI-augmented engineer.
+Each day follows a repeatable loop:
+
+- **Recall** — write what you know  
+- **Learn** — focus on one concept  
+- **Build** — apply it immediately  
+- **Explain** — reinforce understanding  
+
+This turns passive learning into active skill development.
+
+---
+
+## 📦 Project Tracking
+
+Built-in GitHub tracker allows you to:
+
+- link real repositories  
+- track status and completion %  
+- monitor progress over time  
+- keep everything tied to actual output  
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)  
+- Tailwind CSS  
+- Framer Motion  
+- localStorage  
+
+---
+
+## ⚡ Getting Started
+
+```bash
+git clone https://github.com/S-Coggin/ai-augmented-engineer.git
+cd ai-augmented-engineer
+npm install
+npm run dev
