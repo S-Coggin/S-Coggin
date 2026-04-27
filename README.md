@@ -4,7 +4,7 @@
 
 I design and build systems that turn ideas into real, measurable output.
 
-My background spans **mission-critical infrastructure, real-time data systems, and technical communication**—but my current focus is on how AI is reshaping how engineers learn, build, and execute.
+My background spans **mission-critical infrastructure, real-time data systems, and technical communication**—and my current focus is on how AI is reshaping how engineers learn, build, and execute.
 
 ---
 
